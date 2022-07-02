@@ -36,8 +36,6 @@
         tools:listitem="@layout/list_item_pemain"
         android:layout_marginTop="40dp"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-
-
         />
 
 
